@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "Hma8juNngvNykCGdQKCuDGjBSDQ3JwS1HdtQWaoRnx7uoHw6tzrtdEB4XXXwYp2WE928Mjm0C4zQLRIQFE/3vA==",
+  "dgSpecHash": "HhShzShgX2QTm4SlDqkhVihH73xF6To9el2wXSul2aVogFhBBSF5U4HpRHnVCBfh4cJiIPXCfqkl/Gg+5MTfJQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\posta\\Documents\\code\\csharp\\DataStruct\\DataStruct.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\posta\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\posta\\.nuget\\packages\\system.text.encoding.codepages\\7.0.0\\system.text.encoding.codepages.7.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
